@@ -1,4 +1,4 @@
-# BGNBD-GG-ile-CLTV-Forecast
+# CLTV Forecast with BGNBD & GG
 
 ## Business Problem
 
